@@ -1,0 +1,51 @@
+
+    body 
+     { background-color: white;
+         font-family: Georgia, serif; }
+
+     
+
+    
+     h1 { color: blue; 
+     text-align: left; margin-top: 10px; }
+
+    
+
+
+      
+        .color1 { color: red; }
+        .color2 { color: blue; }
+        .color3 { color: green; }
+        .color4 { color: orange; }
+        .color5 { color: purple; }
+        .color6 { color: brown; }
+        .color7 { color: pink; }
+        .color8 { color: teal; }
+        .color9 { color: navy; }
+        .color10 { color: maroon; }
+
+        
+        ol { font-size: 25px; 
+            font-weight: bold;
+            line-height: 1.5;
+             }
+    li.color1 { color: red !important; }
+
+    p { color: darkgreen; 
+        font-weight: bold; }
+
+        .yesButton { background-color: green;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .noButton { background-color: darkred;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
